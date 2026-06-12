@@ -8,3 +8,16 @@
 ## Azure Pricing Calculator Screenshots
 - assignment_04.jpeg – Azure Virtual Machine (DC1s v3, East US, Linux, $70.08/month)
 - assignment_05.png – Azure estimate summary (VM + Storage = $72.16/month)
+## Cost Comparison Table
+
+| Service | AWS Monthly | Azure Monthly |
+|---------|------------|---------------|
+| Virtual Machine (t2.small / DC1s v3) | $16.79 | $70.08 |
+| Storage (S3 / Blob Storage) | $14,132.35 | $2.08 |
+| Database (RDS / Azure SQL) | $XX.XX | $XX.XX |
+| **Total** | **$XX.XX** | **$XX.XX** |
+
+## Cost Advantage Analysis
+Azure is more cost-effective for storage workloads, while AWS offers 
+cheaper compute for small instances. For this workload profile, 
+[state which is cheaper and why].
