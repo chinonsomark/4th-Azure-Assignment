@@ -21,3 +21,6 @@
 Azure is more cost-effective for storage workloads, while AWS offers 
 cheaper compute for small instances. For this workload profile, 
 [state which is cheaper and why].
+## Exported Estimates
+- **Azure Estimate:** See `Microsoft Azure Estimate.xlsx` in this repository
+- **AWS Estimate:** Screenshots available in Assignment_01.jpeg, Assignment_02.png, assignment_03.png
